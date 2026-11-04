@@ -1,5 +1,4 @@
 name: Build & deploy
-# comment: ok
 
 on:
   push:
